@@ -1,6 +1,6 @@
 # Python API - Interview Task
 ### Description
-Z wykorzystaniem dowolnego frameworka dostępnego dla języka Python (np. Django lub Flask), stwórz aplikację do zarządzania zbiorem książek. Aplikacja ma realizować operacje CRUD na zestawie książek dostępnej z API Google - ​https://www.googleapis.com/books/v1/volumes?q=Hobbit​. Odpowiednie zaprojektowanie warstwy wizualnej (np. z wykorzystaniem Boostrapa) będzie atutem.  
+Z wykorzystaniem dowolnego frameworka dostępnego dla języka Python (np. Django lub Flask), stwórz aplikację do zarządzania zbiorem książek. Aplikacja ma realizować operacje CRUD na zestawie książek dostępnej z API Google - ​https://www.googleapis.com/books/v1/volumes?q=<book_title>​. Odpowiednie zaprojektowanie warstwy wizualnej (np. z wykorzystaniem Boostrapa) będzie atutem.  
 
 ### Tasks
 1. Zamodeluj obiekty bazodanowe tak, by zawierały pola: ​tytuł, autor, data publikacji, numer ISBN, liczba stron, link do okładki i język publikacji​.  
